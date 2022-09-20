@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/forHeather/static/css/main.d0c5da85.css",
+    "main.js": "/forHeather/static/js/main.b7ca57c5.js",
+    "static/media/pizza.jpg": "/forHeather/static/media/pizza.17540f0abeecca26d105.jpg",
+    "static/media/firstVisit.png": "/forHeather/static/media/firstVisit.5092c69ad6712ff026f1.png",
+    "static/media/hathrroejande.png": "/forHeather/static/media/hathrroejande.2006f428563e13ae875e.png",
+    "static/media/sushi.jpg": "/forHeather/static/media/sushi.20c46a03e26bf6a08d41.jpg",
+    "static/media/myRoom.jpg": "/forHeather/static/media/myRoom.9e28ffe0ad405b122b27.jpg",
+    "static/media/vega.jpeg": "/forHeather/static/media/vega.42ecc64f96c30bc7e615.jpeg",
+    "static/media/leo-sign.png": "/forHeather/static/media/leo-sign.1d2fcf89e9d04b5bf12d.png",
+    "static/media/aries-sign.png": "/forHeather/static/media/aries-sign.1083ae98a764531ddd4b.png",
+    "static/media/arcturus.webp": "/forHeather/static/media/arcturus.25c10e84e8b80fb807f5.webp",
+    "index.html": "/forHeather/index.html",
+    "main.d0c5da85.css.map": "/forHeather/static/css/main.d0c5da85.css.map",
+    "main.b7ca57c5.js.map": "/forHeather/static/js/main.b7ca57c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d0c5da85.css",
+    "static/js/main.b7ca57c5.js"
+  ]
+}
